@@ -5,7 +5,11 @@
 0.1.0
 
 ## Usage
-TBD
+    $('span').linkIt({
+		  href: 'http://test.com',
+		  text: 'Click Me',
+		  target: '_blank'
+		});
 
 ## Vendors
 jQuery - [http://jquery.com](http://jquery.com)
